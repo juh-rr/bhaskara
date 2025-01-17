@@ -1,22 +1,22 @@
-Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de Bhaskara. 
-Se não for possível calcular as raízes, mostre a mensagem correspondente “Impossivel calcular”, caso haja uma divisão por 0 ou raiz de numero negativo.
+Leia 3 valores de ponto flutuante e efetue o cÃ¡lculo das raÃ­zes da equaÃ§Ã£o de Bhaskara. 
+Se nÃ£o for possÃ­vel calcular as raÃ­zes, mostre a mensagem correspondente â€œImpossivel calcularâ€, caso haja uma divisÃ£o por 0 ou raiz de numero negativo.
 
-#Entrada
-Leia três valores de ponto flutuante (double) A, B e C.
+Entrada
+Leia trÃªs valores de ponto flutuante (double) A, B e C.
 
-#Saída
-Se não houver possibilidade de calcular as raízes, apresente a mensagem "Impossivel calcular". Caso contrário, imprima o resultado das raízes com 5 dígitos após o ponto, com uma mensagem correspondente conforme exemplo abaixo. Imprima sempre o final de linha após cada mensagem.
+SaÃ­da
+Se nÃ£o houver possibilidade de calcular as raÃ­zes, apresente a mensagem "Impossivel calcular". Caso contrÃ¡rio, imprima o resultado das raÃ­zes com 5 dÃ­gitos apÃ³s o ponto, com uma mensagem correspondente conforme exemplo abaixo. Imprima sempre o final de linha apÃ³s cada mensagem.
 
-#Exemplos de Entrada
+Exemplos de Entrada
 10.0 20.1 5.1
 
-#Exemplos de Saída
+Exemplos de SaÃ­da
 R1 = -0.29788
 R2 = -1.71212
 
-#Exemplos de Entrada
+Exemplos de Entrada
 0.0 20.0 5.0
 
-#Exemplos de Saída
+Exemplos de SaÃ­da
 Impossivel calcular
 
